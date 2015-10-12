@@ -1,0 +1,3 @@
+[submodule "MADlibs"]
+	path = MADlibs
+	url = https://github.com/theartboy/MADlibs.git
