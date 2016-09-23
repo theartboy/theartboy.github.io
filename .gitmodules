@@ -1,3 +1,6 @@
 [submodule "MADlibs"]
 	path = MADlibs
 	url = https://github.com/theartboy/MADlibs.git
+[submodule "processingPlatformGame"]
+	path = processingPlatformGame
+	url = https://github.com/theartboy/processingPlatformGame.git
