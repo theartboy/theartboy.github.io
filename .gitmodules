@@ -4,3 +4,6 @@
 [submodule "processingPlatformGame"]
 	path = processingPlatformGame
 	url = https://github.com/theartboy/processingPlatformGame.git
+[submodule "circleCollisionDetection"]
+	path = circleCollisionDetection
+	url = https://github.com/theartboy/circleCollisionDetection.git
