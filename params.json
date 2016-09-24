@@ -1,0 +1,6 @@
+{
+  "name": "theARTboy",
+  "tagline": "",
+  "body": "#theARTboy\r\nThis site is a collection of some of my code based projects. Enjoy.\r\n\r\n##Projects\r\n\r\n###Processing Trig Demo\r\nDemonstration of SOHCAHTOA written in Processing: [Trigonometry](trigDemo/index.html)\r\n\r\n###Processing Platform Game\r\nSimple platform game with animated sprites [platformer](https://github.com/theartboy/processingPlatformGame)\r\n\r\n###P5js Circle Collision Demo\r\nDemonstration of circle based collision detection [circle collisions](circleCollisionDetection/index.html)\r\n\r\n###MADlibs\r\nThis is a madlibs style activity using javascript to refresh the user page in the browser [MADlibs](MADlibs/start.html)\r\n\r\nCopyright 2016 John McCaffrey (@theartboy)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
