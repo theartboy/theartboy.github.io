@@ -7,3 +7,6 @@
 [submodule "circleCollisionDetection"]
 	path = circleCollisionDetection
 	url = https://github.com/theartboy/circleCollisionDetection.git
+[submodule "trigDemo"]
+	path = trigDemo
+	url = https://github.com/theartboy/trigDemo.git
